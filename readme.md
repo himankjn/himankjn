@@ -1,10 +1,8 @@
 
-### Hi there, I'm Othmane  👋
+### Hello there, I'm Himank.  👋
 
-- 🌱 I’m currently learning 
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2022 Goals: Contribute more to Open Source projects
-
+- 📚 I’m currently a student @IIITB pursuing my masters in CSE.
+- 
 ## Languages and Tools
 
 
