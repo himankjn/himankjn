@@ -16,9 +16,10 @@
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 <img align="left" alt="C++" width="26px" src="https://user-images.githubusercontent.com/43819432/150682343-e8e05f7b-4b75-496a-909b-db6684ae4215.png" />
+<img align="left" alt="C++" width="26px" src="https://user-images.githubusercontent.com/43819432/151139933-f011d1ed-b027-4fce-a8cf-216988ba0e10.jpg" />
+<br />
+<br />
 
-<br />
-<br />
 <!---
 <img align="left" alt="Angular" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
