@@ -18,6 +18,9 @@
 <img align="left" alt="C++" width="26px" src="https://user-images.githubusercontent.com/43819432/150682343-e8e05f7b-4b75-496a-909b-db6684ae4215.png" />
 <img align="left" alt="Jenkins" width="26px" src="https://user-images.githubusercontent.com/43819432/151139933-f011d1ed-b027-4fce-a8cf-216988ba0e10.jpg" />
 <img align="left" alt="Docker" width="26px" src="https://user-images.githubusercontent.com/43819432/156167753-73061c57-68db-4410-b4bf-fc404beef74f.png">
+<img align="left" alt="Ansible" width="26px" src="https://user-images.githubusercontent.com/43819432/160329567-ffae6342-8203-48b2-b30c-f1b3709b65b1.png">
+<img align="left" alt="Maven" width="26px" src="https://user-images.githubusercontent.com/43819432/160329613-d84ad16b-884c-4b4c-8ba2-403c86a6e1de.png">
+
 <br />
 <br />
 
